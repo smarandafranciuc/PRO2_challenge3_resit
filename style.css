@@ -1,0 +1,23 @@
+body {
+    height: 100%;
+    width: 100%;
+    z-index: 0;
+}
+
+h1{
+    color:aquamarine;
+    font-size: 32px;
+    z-index: 2;
+}
+#weather {
+	background-color: #222222;
+	width: 80px;
+	padding: 6px;
+	text-align: center;
+    z-index: 1;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+}
